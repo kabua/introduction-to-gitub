@@ -4,4 +4,4 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
-![Image of Yaktocat](https://octodex.github.com/images/Manufacturetocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/manufacturetocat.png)
